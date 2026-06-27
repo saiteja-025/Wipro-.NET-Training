@@ -1,19 +1,30 @@
-Module 02 - C# Programming
+Topics Covered
 
-Status:
-✅ Completed Topics
+✔ Console Application
+✔ Solution
+✔ Project
+✔ Dependencies
+✔ Program.cs
+✔ Console.Write()
+✔ Console.WriteLine()
+✔ Variables
+✔ Data Types
+✔ Input using Console.ReadLine()
+✔ Type Conversion
+✔ Basic Programming
 
-• Console Application
-• Solution
-• Project
-• Dependencies
-• Program.cs
-• Console.Write()
-• Console.WriteLine()
-• Comments
-• Variables
-• Input
-• Basic Data Types
+Key Learnings
 
-Next Topic:
-➡️ Object-Oriented Programming (OOP)
+• Console.Write() prints without moving to the next line.
+• Console.WriteLine() prints and moves to the next line.
+• Variables store data.
+• Convert.ToInt32() converts string input to integer.
+• C# is case-sensitive.
+
+Status
+
+✅ Completed
+
+Next Topic
+
+➡ Object-Oriented Programming (OOP)
